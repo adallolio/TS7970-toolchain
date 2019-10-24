@@ -9,7 +9,7 @@ as indicated in the [TS-7970 user manual](https://wiki.embeddedarm.com/wiki/TS-7
 * Clone the repository to a folder in your computer (e.g., the HOME folder):
 
 ```
-$ git clone https://github.com/adallolio/TS7970-toolchai $HOME
+$ git clone https://github.com/adallolio/TS7970-toolchain $HOME
 ```
 
 * To target the i.MX6 for cross-compilation, point to the "arm-linux-gnueabihf-" files inside the "bin" folder in this repository.
